@@ -1,0 +1,3 @@
+"""
+SinGAN implementation package
+""" 

@@ -1,7 +1,7 @@
 import torch
 import math
 import torch.nn as nn
-from utils.core import imresize
+from generation.utils.core import imresize
 from copy import deepcopy
 from torch.nn import functional as F
 
